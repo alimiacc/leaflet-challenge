@@ -8,3 +8,9 @@ body,
 html {
   height: 100%;
 }
+
+#divLegend {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
